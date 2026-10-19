@@ -1,0 +1,6 @@
+{
+  "name": "DataViz Match: Subtopic 16.5 Graph Selector",
+  "description": "Interactive flashcards and visual guide for Cambridge Secondary Subtopic 16.5: Differentiating graph types (Pie Chart, Time Series, Histogram, Stem-and-Leaf, Compound Bar Chart).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
